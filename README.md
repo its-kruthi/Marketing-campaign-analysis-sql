@@ -3,6 +3,8 @@
 ## Project Overview
 Analysis of 200,000 marketing campaigns across 6 channels (Facebook, Website, Google Ads, Email, YouTube, Instagram) for a D2C company, using SQL for business analysis and Python/Excel/Power BI for reporting.
 
+ ## Dataset sourced from Kaggle: [[link](https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset)]. Not included in repo due to size — see data_cleaning.py for the full cleaning pipeline ##
+ 
 ## Business Context
 Simulates supporting a Growth Marketing team to answer:
 - Which channels/campaign types perform best?
